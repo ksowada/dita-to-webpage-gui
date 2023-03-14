@@ -1,8 +1,11 @@
 package de.ardoid;
 
+import de.ardoid.files.Browser;
 import de.ardoid.files.ParseXPath;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import static spark.Spark.*;
 
 public class Main {
 
@@ -19,5 +22,11 @@ public class Main {
             Node siteNameNode = siteNamesNl.item(siteNamesIx);
             System.out.println(siteNameNode.getTextContent());
         }
+
+        // starting a local server
+        get("/hello", (req, res) -> "Hello World");
+
+        // open default browser in plattform-independent way
+        Browser.start("http://localhost:4567/hello");
     }
 }
