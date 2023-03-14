@@ -1,0 +1,116 @@
+<config>
+    <sites>
+        <site name="webtool">
+            <dir>../webtool.de</dir>
+            <content>content</content>
+            <dest>dest</dest>
+            <server>webtool.de</server>
+            <map>webtool.de</map>
+            <url>http://webtool.de</url>
+            <abs>C:\Users\Fanta\Desktop\Websites\webtool.de\</abs>
+            <info>
+                <brand>webtool.de</brand>
+                <url>http://webtool.de</url>
+                <twitter_name>SK8DE1</twitter_name>
+                <footer>
+                    <google/>
+                    <facebook/>
+                    <linkedin/>
+                    <twitter name="SK8DE1"/>
+                    <center>&#x0A9; Copyright 2017</center>
+                    <right>produced by <a href="http://webtool.de">Ingenieurbüro webtool</a></right>
+                </footer>
+            </info>
+        </site>
+        <site name="spare">
+            <dir>../spare-benzin.de</dir>
+            <content>content</content>
+            <dest>dest</dest>
+            <server>spare-benzin.de</server>
+            <map>spare-benzin.de</map>
+            <url>http://spare-benzin.de</url>
+            <abs>C:\Users\Fanta\Desktop\Websites\spare-benzin.de\</abs>
+            <info>
+                <brand>spare-benzin.de</brand>
+                <url>http://spare-benzin.de</url>
+                <twitter_name>SK8DE1</twitter_name>
+                <footer>
+                    <google/>
+                    <facebook/>
+                    <linkedin/>
+                    <twitter name="SK8DE1"/>
+                    <center>&#x0A9; Copyright 2017</center>
+                    <right>produced by <a href="http://sowada.eu">Ingenieurbüro Sowada</a></right>
+                </footer>
+                <googleAnalyticsId>UA-133721301-1</googleAnalyticsId>
+            </info>
+        </site>
+        <site name="sk-8">
+            <dir>../sk-8.de</dir>
+            <content>content</content>
+            <dest>dest</dest>
+            <server>sk-8.de</server>
+            <map>sk-8.de</map>
+            <url>http://sk-8.de</url>
+            <abs>C:\Users\Fanta\Desktop\Websites\sk-8.de\</abs>
+            <info>
+                <brand>sk-8.de</brand>
+                <url>http://sk-8.de</url>
+                <twitter_name>SK8DE1</twitter_name>
+                <footer>
+                    <google/>
+                    <facebook/>
+                    <linkedin/>
+                    <twitter name="SK8DE1"/>
+                    <center>&#x0A9; Copyright 2017</center>
+                    <right>produced by <a href="http://sowada.eu">Ingenieurbüro Sowada</a></right>
+                </footer>
+                <googleAnalyticsId>UA-343852-2</googleAnalyticsId>
+            </info>
+        </site>
+        <site name="sowada">
+            <dir>../sowada.eu</dir>
+            <content>content</content>
+            <dest>dest</dest>
+            <server>sowada.eu</server>
+            <map>sowada.eu</map>
+            <url>http://sowada.eu</url>
+            <abs>C:\Users\Fanta\Desktop\Websites\sowada.eu\</abs>
+            <info>
+                <brand>sowada.eu</brand>
+                <url>http://sowada.eu</url>
+                <twitter_name>SK8DE1</twitter_name>
+                <footer>
+                    <google/>
+                    <facebook/>
+                    <linkedin/>
+                    <twitter name="SK8DE1"/>
+                    <center>&#x0A9; Copyright 2017</center>
+                    <right>produced by <a href="http://sowada.eu">Ingenieurbüro Sowada</a></right>
+                </footer>
+            </info>
+        </site>
+        <site name="floh">
+            <dir>../floh-entfernung.de</dir>
+            <content>content</content>
+            <dest>dest</dest>
+            <server>floh-entfernung.de</server>
+            <map>floh-entfernung.de</map>
+            <url>http://floh-entfernung.de</url>
+            <abs>C:\Users\Fanta\Desktop\Websites\floh-entfernung.de\</abs>
+            <info>
+                <brand>floh-entfernung.de</brand>
+                <url>http://floh-entfernung.de</url>
+                <twitter_name>SK8DE1</twitter_name>
+                <footer>
+                    <google/>
+                    <facebook/>
+                    <linkedin/>
+                    <twitter name="SK8DE1"/>
+                    <center>&#x0A9; Copyright 2017</center>
+                    <right>produced by <a href="http://webtool.de">Ingenieurbüro webtool</a></right>
+                </footer>
+            </info>
+        </site>
+    </sites>
+</config>
