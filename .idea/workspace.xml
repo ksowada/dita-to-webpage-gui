@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9720395-2063-4b2e-bbf2-42b5848f1deb" name="Changes" comment="add submodule to try files-package from WettenApi">
+    <list default="true" id="d9720395-2063-4b2e-bbf2-42b5848f1deb" name="Changes" comment="add class Browser to open default browser in plattform-independent way">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ardoid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ardoid/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/media/veracrypt1/_Karl/_Websites/webtool/webtool-gui/lib",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/veracrypt1/_Karl/_Websites/webtool/webtool-gui/lib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
@@ -167,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678813254900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add local server from org.apache.spark and open default browser in plattform-independent way">
+      <created>1678816348721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678816348721</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add class Browser to open default browser in plattform-independent way">
+      <created>1678816407546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678816407546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +198,9 @@
     <MESSAGE value="initial commit, with Project Starter made by IntelliJ" />
     <MESSAGE value="use de.ardoid.files XPath to gather data from a config-gui.xml and put it to console" />
     <MESSAGE value="add submodule to try files-package from WettenApi" />
-    <option name="LAST_COMMIT_MESSAGE" value="add submodule to try files-package from WettenApi" />
+    <MESSAGE value="add local server from org.apache.spark and open default browser in plattform-independent way" />
+    <MESSAGE value="initial commit, to try a submodule for this Java package" />
+    <MESSAGE value="add class Browser to open default browser in plattform-independent way" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Browser to open default browser in plattform-independent way" />
   </component>
 </project>
